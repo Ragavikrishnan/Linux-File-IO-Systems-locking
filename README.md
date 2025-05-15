@@ -1,6 +1,6 @@
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
-# NAME:P.PRAMISHA
+
 # AIM:
 To Write a C program that illustrates files copying and locking
 
